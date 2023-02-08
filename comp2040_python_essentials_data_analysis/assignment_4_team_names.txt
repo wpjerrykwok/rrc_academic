@@ -1,0 +1,7 @@
+Grass
+Fire
+Water
+Bug
+Electric
+Ice
+Poison
