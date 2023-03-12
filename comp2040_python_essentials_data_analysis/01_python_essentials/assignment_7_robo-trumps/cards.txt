@@ -1,0 +1,12 @@
+rainbow, 10, 34, 95, 7, grey, rainbow.gif
+space, 13, 28, 74, 23, black, space.gif
+bird, 12, 43, 6, 4, blue, bird.gif
+dog, 23, 43, 78, 9, green, dog.gif
+jet, 98, 1, 23, 52, purple, jet.gif
+round, 19, 29, 39, 2, pink, round.gif
+brains, 18, 35, 43, 71, brown, brains.gif
+twoheads, 91, 62, 98, 7, violet, twoheads.gif
+shades, 12, 75, 23, 89, red, shades.gif
+hair, 34, 62, 23, 8, orange, hair.gif
+tv, 23, 65, 23, 77, indigo, tv.gif
+yellow, 91, 3, 46, 34, blue, yellow.gif
